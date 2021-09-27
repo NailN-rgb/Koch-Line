@@ -1,0 +1,10 @@
+C:\Users\Наиль\source\repos\Кривая Коха\Кривая Коха\bin\Debug\Кривая Коха.exe.config
+C:\Users\Наиль\source\repos\Кривая Коха\Кривая Коха\bin\Debug\Кривая Коха.exe
+C:\Users\Наиль\source\repos\Кривая Коха\Кривая Коха\bin\Debug\Кривая Коха.pdb
+C:\Users\Наиль\source\repos\Кривая Коха\Кривая Коха\obj\Debug\Кривая_Коха.Form1.resources
+C:\Users\Наиль\source\repos\Кривая Коха\Кривая Коха\obj\Debug\Кривая_Коха.Properties.Resources.resources
+C:\Users\Наиль\source\repos\Кривая Коха\Кривая Коха\obj\Debug\Кривая Коха.csproj.GenerateResource.cache
+C:\Users\Наиль\source\repos\Кривая Коха\Кривая Коха\obj\Debug\Кривая Коха.csproj.CoreCompileInputs.cache
+C:\Users\Наиль\source\repos\Кривая Коха\Кривая Коха\obj\Debug\Кривая Коха.exe
+C:\Users\Наиль\source\repos\Кривая Коха\Кривая Коха\obj\Debug\Кривая Коха.pdb
+C:\Users\Наиль\source\repos\Кривая Коха\Кривая Коха\obj\Debug\Кривая Коха.csproj.AssemblyReference.cache
